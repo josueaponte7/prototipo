@@ -1,0 +1,32 @@
+{
+    "folders":
+    [
+        {
+            "file_exclude_patterns":
+            [
+                "*.sql",
+                "*.rst",
+                "*.txt",
+                "*.sublime*",
+                "*.md",
+                "*.bowerrc",
+                "*.editorconfig"
+            ],
+            "folder_exclude_patterns":
+            [
+                ".idea",
+                "Autocomplete",
+                "user_guide",
+                "nbproject",
+                ".phpintel",
+                ".komodotools",
+                "SQL"
+            ],
+            "path": "."
+        }
+    ],
+    "settings":
+    {
+        "tab_size": 4
+    }
+}

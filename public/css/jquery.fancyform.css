@@ -1,0 +1,27 @@
+.image img, .trans-element-checkbox, #tristate img
+{
+	padding: 5px;
+	border: 1px solid #dddddd;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	vertical-align: middle;
+	margin: 0 0 5px;
+}
+.trans-element-checkbox
+{
+	display: inline-block;
+	*display: block;
+	zoom: 1;
+	width: 16px;
+	height: 16px;
+	cursor: pointer;
+}
+#tristate li
+{
+	margin: 0;
+	list-style: none;
+}
+img
+{
+	cursor	: pointer;
+}
